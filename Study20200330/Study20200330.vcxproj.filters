@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\입출력">
       <UniqueIdentifier>{0cb12611-affa-44f2-ad73-e4fcf66cc1bd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\자료구조1">
+      <UniqueIdentifier>{c408e176-9a29-48cf-9822-88b87746ca0f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -44,6 +47,12 @@
     </ClCompile>
     <ClCompile Include="11022_A+B-8.cpp">
       <Filter>소스 파일\입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="9093_단어뒤집기.cpp">
+      <Filter>소스 파일\자료구조1</Filter>
+    </ClCompile>
+    <ClCompile Include="10828_스택.cpp">
+      <Filter>소스 파일\자료구조1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
