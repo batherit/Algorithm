@@ -54,5 +54,14 @@
     <ClCompile Include="10828_스택.cpp">
       <Filter>소스 파일\자료구조1</Filter>
     </ClCompile>
+    <ClCompile Include="9012_괄호.cpp">
+      <Filter>소스 파일\자료구조1</Filter>
+    </ClCompile>
+    <ClCompile Include="1874_스택수열.cpp">
+      <Filter>소스 파일\자료구조1</Filter>
+    </ClCompile>
+    <ClCompile Include="1406_에디터.cpp">
+      <Filter>소스 파일\자료구조1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
