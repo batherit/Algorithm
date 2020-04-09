@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\수학1">
       <UniqueIdentifier>{df174e81-abdc-4632-b57d-c7ebddb00370}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\수학1\연습">
+      <UniqueIdentifier>{304c3bbb-9b6b-4ef1-91f0-a1e185490ef5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -101,6 +104,39 @@
     </ClCompile>
     <ClCompile Include="에라토스테네스의체.cpp">
       <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="10430_나머지.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="2609_LCM과GCD.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="1934_최소공배수.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="1978_소수찾기.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="1929_소수구하기.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="6588_골드바흐의추측.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="10872_팩토리얼.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="1676_팩토리얼0의개수.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="2004_조합0의개수%28시간초과%29.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="9613_GCD합.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="17087_숨바꼭질6.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
