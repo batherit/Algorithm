@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\수학1\연습">
       <UniqueIdentifier>{304c3bbb-9b6b-4ef1-91f0-a1e185490ef5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DP1">
+      <UniqueIdentifier>{04c05ba9-b2fa-4dc6-8fdf-bc3280bc5797}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -129,14 +132,41 @@
     <ClCompile Include="1676_팩토리얼0의개수.cpp">
       <Filter>소스 파일\수학1</Filter>
     </ClCompile>
-    <ClCompile Include="2004_조합0의개수%28시간초과%29.cpp">
-      <Filter>소스 파일\수학1</Filter>
-    </ClCompile>
     <ClCompile Include="9613_GCD합.cpp">
       <Filter>소스 파일\수학1\연습</Filter>
     </ClCompile>
     <ClCompile Include="17087_숨바꼭질6.cpp">
       <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="1676_팩토리얼0의개수_1.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="2004_조합0의개수.cpp">
+      <Filter>소스 파일\수학1</Filter>
+    </ClCompile>
+    <ClCompile Include="1373_2진수8진수.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="1212_8진수2진수.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="17103_골드바흐파티션.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="1463_1로만들기.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="11726_2xn타일링.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="11727_2xn타일링2.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="9095_1,2,3더하기.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="11052_카드구매하기.cpp">
+      <Filter>소스 파일\DP1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
