@@ -168,5 +168,32 @@
     <ClCompile Include="11052_카드구매하기.cpp">
       <Filter>소스 파일\DP1</Filter>
     </ClCompile>
+    <ClCompile Include="16194_카드구매하기2.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="15990_1,2,3더하기5.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="10844_쉬운계단수.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="2193_이친수.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="11053_LIS.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="2089_-2진수%28failed%29.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="2745_진법변환.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="11653_소인수분해.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="11005_진법변환2.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
