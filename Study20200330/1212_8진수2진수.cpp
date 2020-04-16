@@ -1,34 +1,42 @@
 #include<iostream>
-#include<string>
 #include<stack>
-#include<queue>
 using namespace std;
 
 int main(void) {
-	string str;
-	cin >> str;
+	int t;
+	cin >> t;
 
-	queue<int> result;
-	stack<int> s;
-	for (auto a : str) {
-		int n = a - '0';
-		for (int i = 0; i < 3; i++) {
-			s.push(n % 2);
-			n /= 2;
+	stack<int> result;
+	while (t != 0) {
+		if (t < 0) {
+			// 음수이면서
+			if (t % -2 != 0) {
+				// 딱 나누어 떨어지지 않는 경우
+				result.push(-1 * (t % -2));
+				t /= -2;
+				t += 1;
+			}
+			else {
+				// 딱 나누어 떨어지는 경우
+				result.push(0);
+				t /= -2;
+			}
 		}
-		while (!s.empty()) {
-			result.push(s.top());
-			s.pop();
+		else {
+			// 양수인 경우
+			result.push(t % -2);
+			t /= -2;
 		}
 	}
 
-	while (result.size() > 1 && result.front() == 0) {
-		result.pop();
+	if (!result.empty()) {
+		while (!result.empty()) {
+			cout << result.top();
+			result.pop();
+		}
 	}
-
-	while (!result.empty()) {
-		cout << result.front();
-		result.pop();
+	else {
+		cout << 0;
 	}
 
 	return 0;

@@ -1,2 +1,3 @@
-﻿  11653_소인수분해.cpp
+﻿  1699_제곱수의 합(failed).cpp
+d:\mylab\gamelab\algorithm\code\algorithm\study20200330\1699_제곱수의 합(failed).cpp(16): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
   Study20200330.vcxproj -> D:\MyLab\GameLab\Algorithm\Code\Algorithm\Study20200330\Debug\Study20200330.exe

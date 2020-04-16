@@ -183,9 +183,6 @@
     <ClCompile Include="11053_LIS.cpp">
       <Filter>소스 파일\DP1</Filter>
     </ClCompile>
-    <ClCompile Include="2089_-2진수%28failed%29.cpp">
-      <Filter>소스 파일\수학1\연습</Filter>
-    </ClCompile>
     <ClCompile Include="2745_진법변환.cpp">
       <Filter>소스 파일\수학1\연습</Filter>
     </ClCompile>
@@ -194,6 +191,24 @@
     </ClCompile>
     <ClCompile Include="11005_진법변환2.cpp">
       <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="2089_-2진수.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="14002_LIS4.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="1912_연속합.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="1699_제곱수의 합%28failed%29.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="11576_BaseConversion.cpp">
+      <Filter>소스 파일\수학1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="2225_합분해%28failed%29.cpp">
+      <Filter>소스 파일\DP1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
