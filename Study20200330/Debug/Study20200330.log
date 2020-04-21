@@ -1,3 +1,3 @@
-﻿  1699_제곱수의 합(failed).cpp
-d:\mylab\gamelab\algorithm\code\algorithm\study20200330\1699_제곱수의 합(failed).cpp(16): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+﻿  15663_N과M(9).cpp
+d:\mylab\gamelab\algorithm\code\algorithm\study20200330\15663_n과m(9).cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   Study20200330.vcxproj -> D:\MyLab\GameLab\Algorithm\Code\Algorithm\Study20200330\Debug\Study20200330.exe

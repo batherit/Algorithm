@@ -34,6 +34,15 @@
     <Filter Include="소스 파일\DP1">
       <UniqueIdentifier>{04c05ba9-b2fa-4dc6-8fdf-bc3280bc5797}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\브루트포스">
+      <UniqueIdentifier>{e7c1a268-19a6-422d-adde-032b452e4f13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\브루트포스\건너뛰며해보기">
+      <UniqueIdentifier>{44401545-ef1a-4565-b0ef-ec917c266ef4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\브루트포스\N과 M">
+      <UniqueIdentifier>{635b492e-e06e-4421-a294-1055ebf01e66}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -209,6 +218,45 @@
     </ClCompile>
     <ClCompile Include="2225_합분해%28failed%29.cpp">
       <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="1476_날짜계산.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="6064_카잉달력.cpp">
+      <Filter>소스 파일\브루트포스\건너뛰며해보기</Filter>
+    </ClCompile>
+    <ClCompile Include="1748_수 이어 쓰기1.cpp">
+      <Filter>소스 파일\브루트포스\건너뛰며해보기</Filter>
+    </ClCompile>
+    <ClCompile Include="15649_N과M(1).cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15650_N과M%282%29.cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15650_N과M(2)_1.cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15651_N과M(3).cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15652_N과M(4).cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15654_N과M(5).cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15655_N과M(6).cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15656_N과M(7).cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15657_N과M(8).cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15663_N과M%289%29%28failed%29.cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
