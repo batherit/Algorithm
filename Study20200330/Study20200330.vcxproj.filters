@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\브루트포스\N과 M">
       <UniqueIdentifier>{635b492e-e06e-4421-a294-1055ebf01e66}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\브루트포스\순열">
+      <UniqueIdentifier>{b2895dfb-1f10-44f9-a25f-37e60d2e9365}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -256,6 +259,39 @@
       <Filter>소스 파일\브루트포스\N과 M</Filter>
     </ClCompile>
     <ClCompile Include="15663_N과M%289%29%28failed%29.cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="10972_다음순열.cpp">
+      <Filter>소스 파일\브루트포스\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10973_이전순열.cpp">
+      <Filter>소스 파일\브루트포스\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10974_모든순열.cpp">
+      <Filter>소스 파일\브루트포스\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10819_차이를최대로.cpp">
+      <Filter>소스 파일\브루트포스\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10971_외판원순회2.cpp">
+      <Filter>소스 파일\브루트포스\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="6603_로또.cpp">
+      <Filter>소스 파일\브루트포스\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="15663_N과M%289%29_1%28failed%29.cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15663_N과M(9)_2.cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15664_N과M(10).cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15665_N과M(11).cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15666_N과M(12).cpp">
       <Filter>소스 파일\브루트포스\N과 M</Filter>
     </ClCompile>
   </ItemGroup>
