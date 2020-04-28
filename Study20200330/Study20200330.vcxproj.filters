@@ -46,6 +46,18 @@
     <Filter Include="소스 파일\브루트포스\순열">
       <UniqueIdentifier>{b2895dfb-1f10-44f9-a25f-37e60d2e9365}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\브루트포스\재귀">
+      <UniqueIdentifier>{3f9cf2c7-911c-4a93-b9df-3a02818ab835}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\브루트포스\비트마스크">
+      <UniqueIdentifier>{ea24a784-ef7a-4e03-999c-b0c63317d102}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기타">
+      <UniqueIdentifier>{21e8466f-5e1e-4a5d-98c3-2a0b5ac06858}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프">
+      <UniqueIdentifier>{28e94d34-eeac-4f51-a76f-5147663cd9bf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -293,6 +305,45 @@
     </ClCompile>
     <ClCompile Include="15666_N과M(12).cpp">
       <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="1248_맞춰봐.cpp">
+      <Filter>소스 파일\브루트포스\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="15663_N과M(9)_3.cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="15663_N과M(9)_4.cpp">
+      <Filter>소스 파일\브루트포스\N과 M</Filter>
+    </ClCompile>
+    <ClCompile Include="14391_종이조각.cpp">
+      <Filter>소스 파일\브루트포스\비트마스크</Filter>
+    </ClCompile>
+    <ClCompile Include="1913_달팽이.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="1952_달팽이2.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="1959_달팽이3%28failed%29.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="1260_DFS와 BFS.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="11724_연결요소의개수.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="13023_ABCDE%28failed%29.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="13023_ABCED_1%28failed%29.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="16929_TwoDots.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="2446_별 찍기-9.cpp">
+      <Filter>소스 파일\기타</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
