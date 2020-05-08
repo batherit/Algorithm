@@ -58,6 +58,24 @@
     <Filter Include="소스 파일\그래프">
       <UniqueIdentifier>{28e94d34-eeac-4f51-a76f-5147663cd9bf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\수학1\기타">
+      <UniqueIdentifier>{5c6cca00-8081-43d3-8af8-461289af1a26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DP1\연습">
+      <UniqueIdentifier>{e8123bcd-0422-40d2-ad0d-e0e5443f20b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\브루트포스\순열\기타">
+      <UniqueIdentifier>{858cf16a-3961-4b3f-bb7c-7dffdb22f236}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin">
+      <UniqueIdentifier>{18b90daa-a7aa-4f31-a802-275cf016dac5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\자료구조\문자열">
+      <UniqueIdentifier>{6fd6e41d-0f11-4f7f-9dcf-6c9ed8df9740}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab">
+      <UniqueIdentifier>{050dd5a4-4659-49d4-a938-4aa806acd58c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -225,14 +243,8 @@
     <ClCompile Include="1912_연속합.cpp">
       <Filter>소스 파일\DP1</Filter>
     </ClCompile>
-    <ClCompile Include="1699_제곱수의 합%28failed%29.cpp">
-      <Filter>소스 파일\DP1</Filter>
-    </ClCompile>
     <ClCompile Include="11576_BaseConversion.cpp">
       <Filter>소스 파일\수학1\연습</Filter>
-    </ClCompile>
-    <ClCompile Include="2225_합분해%28failed%29.cpp">
-      <Filter>소스 파일\DP1</Filter>
     </ClCompile>
     <ClCompile Include="1476_날짜계산.cpp">
       <Filter>소스 파일\브루트포스</Filter>
@@ -342,8 +354,71 @@
     <ClCompile Include="16929_TwoDots.cpp">
       <Filter>소스 파일\그래프</Filter>
     </ClCompile>
-    <ClCompile Include="2446_별 찍기-9.cpp">
+    <ClCompile Include="10996_별찍기-21.cpp">
       <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="2446_별찍기-9.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="9375_패션왕 신해빈.cpp">
+      <Filter>소스 파일\수학1\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="1009_분산처리.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="16947_서울지하철2호선.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="1699_제곱수의 합.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="2225_합분해.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="15988_1,2,3더하기3.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="1149_RGB거리%28yet%29.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="다음순열.cpp">
+      <Filter>소스 파일\브루트포스\순열\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="1918_후위 표기식.cpp">
+      <Filter>소스 파일\자료구조\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="1935_후위표기식2.cpp">
+      <Filter>소스 파일\자료구조\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="이진수 관련.cpp">
+      <Filter>소스 파일\Jusin</Filter>
+    </ClCompile>
+    <ClCompile Include="10808_알파벳개수.cpp">
+      <Filter>소스 파일\자료구조\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="10809_알파벳찾기.cpp">
+      <Filter>소스 파일\자료구조\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="10820_문자열분석.cpp">
+      <Filter>소스 파일\자료구조\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2743_단어 길이 재기.cpp">
+      <Filter>소스 파일\자료구조\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="11655_ROT13.cpp">
+      <Filter>소스 파일\자료구조\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="10824_네 수.cpp">
+      <Filter>소스 파일\자료구조\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="11656_접미사배열.cpp">
+      <Filter>소스 파일\자료구조\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="substr.cpp">
+      <Filter>소스 파일\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="ios_acc.cpp">
+      <Filter>소스 파일\Lab</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
