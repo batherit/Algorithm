@@ -76,6 +76,21 @@
     <Filter Include="소스 파일\Lab">
       <UniqueIdentifier>{050dd5a4-4659-49d4-a938-4aa806acd58c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\수학1\참고">
+      <UniqueIdentifier>{f2dbb30f-63a4-4b15-9c84-0dc26666cf26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin\0511">
+      <UniqueIdentifier>{11a3af19-f6d1-4434-8f53-d3b779151a80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin\0508">
+      <UniqueIdentifier>{5a730974-e3c2-4415-8e32-2d26e0a2694f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin\0507">
+      <UniqueIdentifier>{974202ac-5dd3-4333-8602-d538b7dce91d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin\0512">
+      <UniqueIdentifier>{04a0b35c-4399-4705-b913-d54c026965fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -225,15 +240,6 @@
     <ClCompile Include="11053_LIS.cpp">
       <Filter>소스 파일\DP1</Filter>
     </ClCompile>
-    <ClCompile Include="2745_진법변환.cpp">
-      <Filter>소스 파일\수학1\연습</Filter>
-    </ClCompile>
-    <ClCompile Include="11653_소인수분해.cpp">
-      <Filter>소스 파일\수학1\연습</Filter>
-    </ClCompile>
-    <ClCompile Include="11005_진법변환2.cpp">
-      <Filter>소스 파일\수학1\연습</Filter>
-    </ClCompile>
     <ClCompile Include="2089_-2진수.cpp">
       <Filter>소스 파일\수학1\연습</Filter>
     </ClCompile>
@@ -242,9 +248,6 @@
     </ClCompile>
     <ClCompile Include="1912_연속합.cpp">
       <Filter>소스 파일\DP1</Filter>
-    </ClCompile>
-    <ClCompile Include="11576_BaseConversion.cpp">
-      <Filter>소스 파일\수학1\연습</Filter>
     </ClCompile>
     <ClCompile Include="1476_날짜계산.cpp">
       <Filter>소스 파일\브루트포스</Filter>
@@ -378,9 +381,6 @@
     <ClCompile Include="15988_1,2,3더하기3.cpp">
       <Filter>소스 파일\DP1\연습</Filter>
     </ClCompile>
-    <ClCompile Include="1149_RGB거리%28yet%29.cpp">
-      <Filter>소스 파일\DP1\연습</Filter>
-    </ClCompile>
     <ClCompile Include="다음순열.cpp">
       <Filter>소스 파일\브루트포스\순열\기타</Filter>
     </ClCompile>
@@ -389,9 +389,6 @@
     </ClCompile>
     <ClCompile Include="1935_후위표기식2.cpp">
       <Filter>소스 파일\자료구조\스택</Filter>
-    </ClCompile>
-    <ClCompile Include="이진수 관련.cpp">
-      <Filter>소스 파일\Jusin</Filter>
     </ClCompile>
     <ClCompile Include="10808_알파벳개수.cpp">
       <Filter>소스 파일\자료구조\문자열</Filter>
@@ -419,6 +416,87 @@
     </ClCompile>
     <ClCompile Include="ios_acc.cpp">
       <Filter>소스 파일\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="11005_진법변환2.cpp">
+      <Filter>소스 파일\수학1\참고</Filter>
+    </ClCompile>
+    <ClCompile Include="2745_진법변환.cpp">
+      <Filter>소스 파일\수학1\참고</Filter>
+    </ClCompile>
+    <ClCompile Include="11576_BaseConversion.cpp">
+      <Filter>소스 파일\수학1\참고</Filter>
+    </ClCompile>
+    <ClCompile Include="11653_소인수분해.cpp">
+      <Filter>소스 파일\수학1\참고</Filter>
+    </ClCompile>
+    <ClCompile Include="1149_RGB거리.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="1149_RGB거리_1.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="1309_동물원.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="1309_동물원_1.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="11057_오르막수.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="rpg_game.cpp">
+      <Filter>소스 파일\Jusin\0511</Filter>
+    </ClCompile>
+    <ClCompile Include="xor_swap.cpp">
+      <Filter>소스 파일\Jusin\0511</Filter>
+    </ClCompile>
+    <ClCompile Include="goto_loop.cpp">
+      <Filter>소스 파일\Jusin\0511</Filter>
+    </ClCompile>
+    <ClCompile Include="n의 자리의 수 추출.cpp">
+      <Filter>소스 파일\Jusin\0511</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.cpp">
+      <Filter>소스 파일\Jusin\0511</Filter>
+    </ClCompile>
+    <ClCompile Include="prt_grade%28if%29.cpp">
+      <Filter>소스 파일\Jusin\0511</Filter>
+    </ClCompile>
+    <ClCompile Include="prt_grade(switch).cpp">
+      <Filter>소스 파일\Jusin\0511</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_flag.cpp">
+      <Filter>소스 파일\Jusin\0508</Filter>
+    </ClCompile>
+    <ClCompile Include="conv.cpp">
+      <Filter>소스 파일\Jusin\0508</Filter>
+    </ClCompile>
+    <ClCompile Include="prt_bit.cpp">
+      <Filter>소스 파일\Jusin\0507</Filter>
+    </ClCompile>
+    <ClCompile Include="9465_스티커.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="2156_포도주시식.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="escape_loop.cpp">
+      <Filter>소스 파일\Jusin\0512</Filter>
+    </ClCompile>
+    <ClCompile Include="99dan.cpp">
+      <Filter>소스 파일\Jusin\0512</Filter>
+    </ClCompile>
+    <ClCompile Include="rand.cpp">
+      <Filter>소스 파일\Jusin\0512</Filter>
+    </ClCompile>
+    <ClCompile Include="숙제1_자판기.cpp">
+      <Filter>소스 파일\Jusin\0512</Filter>
+    </ClCompile>
+    <ClCompile Include="숙제2_홀짝게임.cpp">
+      <Filter>소스 파일\Jusin\0512</Filter>
+    </ClCompile>
+    <ClCompile Include="숙제3_가위바위보.cpp">
+      <Filter>소스 파일\Jusin\0512</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
