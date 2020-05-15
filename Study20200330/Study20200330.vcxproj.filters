@@ -91,6 +91,15 @@
     <Filter Include="소스 파일\Jusin\0512">
       <UniqueIdentifier>{04a0b35c-4399-4705-b913-d54c026965fc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{4f99edf9-2358-40bc-b2e2-93a47ea7145f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin\0513">
+      <UniqueIdentifier>{4babfc3d-6fb0-44b8-8cd6-715540d00f42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin\0514">
+      <UniqueIdentifier>{b7015df9-8201-4820-94c6-3c1275a9b65a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -497,6 +506,51 @@
     </ClCompile>
     <ClCompile Include="숙제3_가위바위보.cpp">
       <Filter>소스 파일\Jusin\0512</Filter>
+    </ClCompile>
+    <ClCompile Include="1932_정수삼각형.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="11055_가장 큰 증가 부분 수열.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="1_선택정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="2_버블정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="3_삽입정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="for_99dan.cpp">
+      <Filter>소스 파일\Jusin\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="for_loop.cpp">
+      <Filter>소스 파일\Jusin\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="11722_가장 긴 감소하는 부분 수열.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="11054_가장 긴 바이토닉 부분 수열.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="13398_연속합2%28yet%29.cpp">
+      <Filter>소스 파일\DP1\연습</Filter>
+    </ClCompile>
+    <ClCompile Include="4_퀵정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="숙제1_자판기(함수).cpp">
+      <Filter>소스 파일\Jusin\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="숙제2_홀짝게임(함수).cpp">
+      <Filter>소스 파일\Jusin\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="숙제3_가위바위보(함수).cpp">
+      <Filter>소스 파일\Jusin\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="숙제4_textRPG(함수).cpp">
+      <Filter>소스 파일\Jusin\0514</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
