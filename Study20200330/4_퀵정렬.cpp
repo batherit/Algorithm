@@ -14,7 +14,7 @@ void quick(int arr[], int left, int right) {
 
 	if (l > r) return;
 	while (l <= r) {
-		while (l <= r && arr[l] < arr[pivot]) l++;
+		while (l <= r && arr[l] <= arr[pivot]) l++;
 		while (l <= r && arr[r] >= arr[pivot]) r--;
 		if (l <= r) swap(arr[l], arr[r]);
 		else {
@@ -29,7 +29,7 @@ void quick(int arr[], int left, int right) {
 
 
 int main(void) {
-	int arr[] = { 4, 3, 1, 2, 3 };
+	int arr[] = { 4, 3, 1, 5, 3 };
 
 	int num = sizeof(arr) / sizeof(int);
 	quick(arr, 0, num - 1);
