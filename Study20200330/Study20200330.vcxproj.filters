@@ -127,6 +127,9 @@
     <Filter Include="소스 파일\정렬\심화">
       <UniqueIdentifier>{1645fca2-b4b7-40e8-8ea5-04872c674d2e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Jusin\0521">
+      <UniqueIdentifier>{bd9d0031-819d-4720-9971-061fc82c0a9e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -668,6 +671,21 @@
     </ClCompile>
     <ClCompile Include="7_seo_heap%28yet%29.cpp">
       <Filter>소스 파일\정렬\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="숙제1_빙고.cpp">
+      <Filter>소스 파일\Jusin\0521</Filter>
+    </ClCompile>
+    <ClCompile Include="숙제2_학생성적표(구조체x).cpp">
+      <Filter>소스 파일\Jusin\0521</Filter>
+    </ClCompile>
+    <ClCompile Include="숙제3_학생성적표(구조체o).cpp">
+      <Filter>소스 파일\Jusin\0521</Filter>
+    </ClCompile>
+    <ClCompile Include="0521_1.cpp">
+      <Filter>소스 파일\Jusin\0521</Filter>
+    </ClCompile>
+    <ClCompile Include="0521_2.cpp">
+      <Filter>소스 파일\Jusin\0521</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
