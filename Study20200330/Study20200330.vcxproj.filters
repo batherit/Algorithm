@@ -115,6 +115,18 @@
     <Filter Include="소스 파일\정렬\Study">
       <UniqueIdentifier>{5fff0c99-b360-4158-a949-ef66e4db8660}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\기타\퀘스트">
+      <UniqueIdentifier>{ca19a343-ffb1-4df4-b5ef-fd0c1ea2e6e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin\0519">
+      <UniqueIdentifier>{5d99cf1b-0cac-4788-b564-311bc5794379}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin\0520">
+      <UniqueIdentifier>{75f9729a-d51b-4708-ae74-5479b6ffb1e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\정렬\심화">
+      <UniqueIdentifier>{1645fca2-b4b7-40e8-8ea5-04872c674d2e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -579,9 +591,6 @@
     <ClCompile Include="17404_RGB거리2.cpp">
       <Filter>소스 파일\DP1\도전</Filter>
     </ClCompile>
-    <ClCompile Include="1107_리모컨%28failed%29.cpp">
-      <Filter>소스 파일\브루트포스\그냥다해보기</Filter>
-    </ClCompile>
     <ClCompile Include="1476_날짜계산.cpp">
       <Filter>소스 파일\브루트포스\그냥다해보기</Filter>
     </ClCompile>
@@ -603,10 +612,61 @@
     <ClCompile Include="5_병합정렬.cpp">
       <Filter>소스 파일\정렬\Study</Filter>
     </ClCompile>
-    <ClCompile Include="6_STL_sort_1.cpp">
+    <ClCompile Include="승현의뢰_1.cpp">
+      <Filter>소스 파일\기타\퀘스트</Filter>
+    </ClCompile>
+    <ClCompile Include="6_STL_sort_1%28정수%29.cpp">
       <Filter>소스 파일\정렬\Study</Filter>
     </ClCompile>
-    <ClCompile Include="6_STL_sort_2.cpp">
+    <ClCompile Include="6_STL_sort_2%28클래스%29.cpp">
+      <Filter>소스 파일\정렬\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="6_STL_sort_3(페어).cpp">
+      <Filter>소스 파일\정렬\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="6_STL_sort_4(2중페어).cpp">
+      <Filter>소스 파일\정렬\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="1_배열.cpp">
+      <Filter>소스 파일\Jusin\0519</Filter>
+    </ClCompile>
+    <ClCompile Include="2_로또.cpp">
+      <Filter>소스 파일\Jusin\0519</Filter>
+    </ClCompile>
+    <ClCompile Include="0519.cpp">
+      <Filter>소스 파일\Jusin\0519</Filter>
+    </ClCompile>
+    <ClCompile Include="1107_리모컨.cpp">
+      <Filter>소스 파일\브루트포스\그냥다해보기</Filter>
+    </ClCompile>
+    <ClCompile Include="7_힙정렬.cpp">
+      <Filter>소스 파일\정렬\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="8_계수정렬.cpp">
+      <Filter>소스 파일\정렬\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원 배열.cpp">
+      <Filter>소스 파일\Jusin\0520</Filter>
+    </ClCompile>
+    <ClCompile Include="7_bin_heap.cpp">
+      <Filter>소스 파일\정렬\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="7_my_heap.cpp">
+      <Filter>소스 파일\정렬\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="15688_수정렬하기5%28failed%29.cpp">
+      <Filter>소스 파일\정렬\수 정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="15688_수정렬하기5_1.cpp">
+      <Filter>소스 파일\정렬\수 정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="1181_단어정렬.cpp">
+      <Filter>소스 파일\정렬\심화</Filter>
+    </ClCompile>
+    <ClCompile Include="1431_시리얼번호%28yet%29.cpp">
+      <Filter>소스 파일\정렬\심화</Filter>
+    </ClCompile>
+    <ClCompile Include="7_seo_heap%28yet%29.cpp">
       <Filter>소스 파일\정렬\Study</Filter>
     </ClCompile>
   </ItemGroup>
