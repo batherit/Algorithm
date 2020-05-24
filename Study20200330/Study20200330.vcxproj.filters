@@ -130,6 +130,9 @@
     <Filter Include="소스 파일\Jusin\0521">
       <UniqueIdentifier>{bd9d0031-819d-4720-9971-061fc82c0a9e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Jusin\0522">
+      <UniqueIdentifier>{45f38ed8-86ef-472f-b57b-db0fee021a55}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -686,6 +689,12 @@
     </ClCompile>
     <ClCompile Include="0521_2.cpp">
       <Filter>소스 파일\Jusin\0521</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_size.cpp">
+      <Filter>소스 파일\Jusin\0522</Filter>
+    </ClCompile>
+    <ClCompile Include="빙고(AI).cpp">
+      <Filter>소스 파일\Jusin\0522</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
