@@ -133,6 +133,12 @@
     <Filter Include="소스 파일\Jusin\0522">
       <UniqueIdentifier>{45f38ed8-86ef-472f-b57b-db0fee021a55}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Jusin\0525">
+      <UniqueIdentifier>{61a9d9fe-b819-4d99-9c64-e94fd8fd9897}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프\Study">
+      <UniqueIdentifier>{dc45a9d8-f21b-412a-b2d6-c2f2f4b4f742}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -695,6 +701,12 @@
     </ClCompile>
     <ClCompile Include="빙고(AI).cpp">
       <Filter>소스 파일\Jusin\0522</Filter>
+    </ClCompile>
+    <ClCompile Include="TextRPG.cpp">
+      <Filter>소스 파일\Jusin\0525</Filter>
+    </ClCompile>
+    <ClCompile Include="union_find.cpp">
+      <Filter>소스 파일\그래프\Study</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
