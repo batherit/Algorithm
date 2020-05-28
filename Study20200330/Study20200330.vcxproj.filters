@@ -139,6 +139,12 @@
     <Filter Include="소스 파일\그래프\Study">
       <UniqueIdentifier>{dc45a9d8-f21b-412a-b2d6-c2f2f4b4f742}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Jusin\0526">
+      <UniqueIdentifier>{54138b8a-b77a-4b10-8755-c7feb8a6e850}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin\0527">
+      <UniqueIdentifier>{7181ff98-ce81-4fa4-91bd-2b18e3cbc2c9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -705,7 +711,22 @@
     <ClCompile Include="TextRPG.cpp">
       <Filter>소스 파일\Jusin\0525</Filter>
     </ClCompile>
-    <ClCompile Include="union_find.cpp">
+    <ClCompile Include="TextRPG(Dynamic).cpp">
+      <Filter>소스 파일\Jusin\0526</Filter>
+    </ClCompile>
+    <ClCompile Include="크루스칼.cpp">
+      <Filter>소스 파일\그래프\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="유니언파인드.cpp">
+      <Filter>소스 파일\그래프\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="TextRPG(파일).cpp">
+      <Filter>소스 파일\Jusin\0527</Filter>
+    </ClCompile>
+    <ClCompile Include="사진복사본생성.cpp">
+      <Filter>소스 파일\Jusin\0527</Filter>
+    </ClCompile>
+    <ClCompile Include="이진트리순회.cpp">
       <Filter>소스 파일\그래프\Study</Filter>
     </ClCompile>
   </ItemGroup>
