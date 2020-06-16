@@ -145,6 +145,24 @@
     <Filter Include="소스 파일\Jusin\0527">
       <UniqueIdentifier>{7181ff98-ce81-4fa4-91bd-2b18e3cbc2c9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Jusin\0529">
+      <UniqueIdentifier>{8529bcb2-c1cd-4cd3-8bee-e9d492acab9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Jusin\0601">
+      <UniqueIdentifier>{8ec1e39e-28b8-4c69-9ea0-dd7c93169c59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기타\시험공부">
+      <UniqueIdentifier>{f7143d6b-d6ad-463e-87c9-0dde042e62df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프\도전">
+      <UniqueIdentifier>{d927c886-dd09-4e43-8a99-d3d2ee9672b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프\BFS">
+      <UniqueIdentifier>{fc09278e-b24b-40e7-9008-ca883208782e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프\BFS\덱사용하기">
+      <UniqueIdentifier>{50a95065-3b29-4cb9-ab09-e54f2b3b06d8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -728,6 +746,78 @@
     </ClCompile>
     <ClCompile Include="이진트리순회.cpp">
       <Filter>소스 파일\그래프\Study</Filter>
+    </ClCompile>
+    <ClCompile Include="11723_집합.cpp">
+      <Filter>소스 파일\브루트포스\비트마스크</Filter>
+    </ClCompile>
+    <ClCompile Include="1182_부분수열의 합.cpp">
+      <Filter>소스 파일\브루트포스\비트마스크</Filter>
+    </ClCompile>
+    <ClCompile Include="13023_ABCDE_2%28failed%29.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="7576_토마토.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="4963_섬의개수.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="TextRPG(DB).cpp">
+      <Filter>소스 파일\Jusin\0529</Filter>
+    </ClCompile>
+    <ClCompile Include="성적표(클래스).cpp">
+      <Filter>소스 파일\Jusin\0601</Filter>
+    </ClCompile>
+    <ClCompile Include="0602_시험대비.cpp">
+      <Filter>소스 파일\기타\시험공부</Filter>
+    </ClCompile>
+    <ClCompile Include="16940_BFS스페셜저지%28failed%29.cpp">
+      <Filter>소스 파일\그래프\도전</Filter>
+    </ClCompile>
+    <ClCompile Include="16940_BFS스페셜저지_1.cpp">
+      <Filter>소스 파일\그래프\도전</Filter>
+    </ClCompile>
+    <ClCompile Include="16964_DFS스페셜저지%28failed%29.cpp">
+      <Filter>소스 파일\그래프\도전</Filter>
+    </ClCompile>
+    <ClCompile Include="16964_DFS스페셜저지.cpp">
+      <Filter>소스 파일\그래프\도전</Filter>
+    </ClCompile>
+    <ClCompile Include="2146_다리만들기.cpp">
+      <Filter>소스 파일\그래프\도전</Filter>
+    </ClCompile>
+    <ClCompile Include="두 수의 합%28호혁이형%29.cpp">
+      <Filter>소스 파일\기타\퀘스트</Filter>
+    </ClCompile>
+    <ClCompile Include="13913_숨바꼭질4.cpp">
+      <Filter>소스 파일\그래프\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1697_숨바꼭질.cpp">
+      <Filter>소스 파일\그래프\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="클래스내정적변수.cpp">
+      <Filter>소스 파일\Lab</Filter>
+    </ClCompile>
+    <ClCompile Include="14226_이모티콘.cpp">
+      <Filter>소스 파일\그래프\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="0615_null함수.cpp">
+      <Filter>소스 파일\기타\시험공부</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 저장.cpp">
+      <Filter>소스 파일\기타\시험공부</Filter>
+    </ClCompile>
+    <ClCompile Include="13549_숨바꼭질3%28failed%29.cpp">
+      <Filter>소스 파일\그래프\BFS\덱사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="1261_알고스팟.cpp">
+      <Filter>소스 파일\그래프\BFS\덱사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="13549_숨바꼭질3(큐).cpp">
+      <Filter>소스 파일\그래프\BFS\덱사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="13549_숨바꼭질3(덱).cpp">
+      <Filter>소스 파일\그래프\BFS\덱사용하기</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

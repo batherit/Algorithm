@@ -8,7 +8,7 @@ int ext(int data, int n) {
 		return -1;
 	}
 
-	return (data % (n * 10)) / 10;
+	return (data % (n * 10)) / n;
 }
 
 int ext2(int data, int n) {

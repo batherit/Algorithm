@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+//#include<stack>
 #include<queue>
 #include<algorithm>
 using namespace std;
@@ -20,6 +21,31 @@ void dfs(vvi &edges, int s) {
 		}
 	}
 }
+
+//void dfs(int s) {
+//	stack<int> stk;
+//	bool visited[1001] = { false, };
+//
+//	stk.push(s);
+//	visited[s] = true;
+//	cout << s << ' ';
+//
+//	while (!stk.empty()) {
+//		int here = stk.top();
+//
+//		int i;
+//		for (i = 0; i < v[here].size(); i++) {
+//			int there = v[here][i];
+//			if (!visited[there]) {
+//				stk.push(there);
+//				visited[there] = true;
+//				cout << there << ' ';
+//				break;
+//			}
+//		}
+//		if (i == v[here].size()) stk.pop();
+//	}
+//}
 
 void bfs(vvi &edges, int s) {
 	// bfs는 방문 체크와 동시에 q에 정점을 집어넣는다.

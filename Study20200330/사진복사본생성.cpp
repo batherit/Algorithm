@@ -50,6 +50,7 @@ bool CreateCopy(const char* _szImageName) {
 	// 확장자 존재 여부 체크
 	if (0 == strlen(szExtensionName)) {
 		cout << "확장자가 입력되지 않았습니다!" << endl;
+		system("pause");
 		return false;
 	}
 
