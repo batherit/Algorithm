@@ -21,6 +21,7 @@ int bfs(int n, int k) {
 
 			if (here == k) return cost[k];
 
+			// 순서가 중요하다.
 			if (2 * here <= 100000 && cost[2 * here] == -1) {
 				cost[2 * here] = cost[here];
 				q[toggle].push(2 * here);
