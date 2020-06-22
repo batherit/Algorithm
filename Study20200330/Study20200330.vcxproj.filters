@@ -172,6 +172,9 @@
     <Filter Include="소스 파일\브루트포스\중급">
       <UniqueIdentifier>{75e4d1c3-4b7c-4e41-b745-08a50f9c47e8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\브루트포스\중급\순열">
+      <UniqueIdentifier>{f2d77ed3-13b8-4a3c-90a5-47b903da8ae5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557_HelloWorld.cpp">
@@ -844,7 +847,16 @@
       <Filter>소스 파일\그래프\트리</Filter>
     </ClCompile>
     <ClCompile Include="2529_부등호.cpp">
-      <Filter>소스 파일\브루트포스\중급</Filter>
+      <Filter>소스 파일\브루트포스\중급\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="1339_단어수학.cpp">
+      <Filter>소스 파일\브루트포스\중급\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="14888_연산자끼워넣기.cpp">
+      <Filter>소스 파일\브루트포스\중급\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="14889_스타트와링크.cpp">
+      <Filter>소스 파일\브루트포스\중급\순열</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

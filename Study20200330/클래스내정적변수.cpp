@@ -1,10 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// ID 재정의 에러
-int CParent::ID = 0;
-int CChild1::ID = 10;
-int CChild2::ID = 20;
+
 
 class CParent {
 public:
@@ -33,9 +30,12 @@ public:
 	static int ID;
 };
 
-int main(void) {
-	return 0;
+// ID 재정의 에러
+int CParent::ID = 0;
+int CChild1::ID = 10;
+int CChild2::ID = 20;
 
+int main(void) {
 	CParent p1;
 	p1.Up();
 	CParent p2;
@@ -52,4 +52,5 @@ int main(void) {
 	cout << CParent::ID << endl;
 	cout << CChild1::ID << endl;
 	cout << CChild2::ID << endl;
+	return 0;
 }
